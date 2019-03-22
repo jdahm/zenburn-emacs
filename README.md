@@ -99,6 +99,9 @@ settings:
 
 ;; scale headings in outline-mode
 (setq zenburn-scale-outline-headlines t)
+
+;; load zenburn
+(load-theme 'zenburn t)
 ```
 
 The screenshot above shows the default setting with no scaled or
